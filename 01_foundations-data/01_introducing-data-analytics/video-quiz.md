@@ -1,4 +1,4 @@
-# Video: Introduction to the course
+## Video: Introduction to the course
 
 Data is a collection of _____ that can be used to draw conclusions, make predictions, and assist in decision-making.
 
@@ -11,7 +11,7 @@ Data is a collection of _____ that can be used to draw conclusions, make predict
 
 ---
 
-# Video: What is the data ecosystem?
+## Video: What is the data ecosystem?
 
 In data analytics, what is the term for elements that interact with one another in order to produce, manage, store, organize, analyze, and share data?
 
@@ -24,7 +24,7 @@ In data analytics, what is the term for elements that interact with one another 
 
 ---
 
-# Video: How data informs better decisions
+## Video: How data informs better decisions
 
 Identify the real-world examples of how a company might make data-driven decisions. Select all that apply.
 
